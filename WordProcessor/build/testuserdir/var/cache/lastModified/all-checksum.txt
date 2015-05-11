@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0.2\platform=1424216018970
+cluster.C:/Users/Local_User/Documents/NetBeansProjects/WordProcessor/build/cluster=1424551105748
+cluster.C:/Program Files/NetBeans 8.0.2/platform=1424216018970
+user=1424551105748
+crc=7
+locale=en_US
+branding=wordprocessor
+java.version=1.8.0_31
+java.vm.version=25.31-b07
